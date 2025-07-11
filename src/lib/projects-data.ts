@@ -32,8 +32,8 @@ export const reactjs_project: Projects[] = [
     title: "// Sangzhi Store - Game Shop",
     description:
       "SangZhiStore is a visually dynamic React-based eCommerce site for gaming merchandise. It uses animations from Animate.css and carousel libraries like Swiper and React Slick to deliver an interactive product browsing experience. Users can navigate through categories, view product details, and enjoy smooth transitions between pages. Built with Formik and React Hook Form for user interactions and validation, the site blends functionality with style, offering a bold and vibrant design suited for the gaming community. Perfect for showcasing UI design skills and front-end responsiveness.",
-    live_site: "https://bunseujjy.github.io/SangZhiStore",
-    github_url: "https://github.com/bunseujjy/SangZhiStore",
+    live_site: "https://bunseueng.github.io/SangZhiStore",
+    github_url: "https://github.com/bunseueng/SangZhiStore",
     slug: "SangzhiStore",
   },
 ]
@@ -57,7 +57,7 @@ export const nextjs_project: Projects[] = [
       "LusiEcommerce is a modern eCommerce platform tailored for online shoe shopping. It features product browsing, filtering, search, cart functionality, and a smooth checkout experience powered by Stripe. The site is built with Next.js, MongoDB, and Prisma for full-stack capability, along with authentication via NextAuth. Admins can manage products and view orders, while customers enjoy a responsive, user-friendly interface with fast performance and clean UI components using Shadcn and Tailwind CSS. The design emphasizes simplicity, efficiency, and modern aesthetics to elevate the online shopping experience.",
     
     live_site: "https://lusiecommerce.netlify.app",
-    github_url: "https://github.com/bunseujjy/lusi_eCommerce",
+    github_url: "https://github.com/bunseueng/lusi_eCommerce",
     slug: "LusiEcommerce",
   },
   {
@@ -67,7 +67,7 @@ export const nextjs_project: Projects[] = [
     description:
       "AceVoting is a creative platform designed to make voting engaging and educational for children. Built using Next.js and MongoDB, this app enables kids to participate in fun, themed polls with a simple and colorful interface. The voting system is secure and user-friendly, supporting admin-side management of questions and submissions. It’s an ideal platform for encouraging interaction, decision-making, and community involvement in a classroom or family setting. The site is fully responsive and features a playful, accessible design.",
     
-    github_url: "https://github.com/bunseujjy/ace_voting",
+    github_url: "https://github.com/bunseueng/ace_voting",
     live_site: "https://acevoting.vercel.app",
     slug: "AceVoting",
   },
@@ -78,7 +78,7 @@ export const nextjs_project: Projects[] = [
     description:
       "CamJobFindr is a job search and hiring platform built for the Cambodian job market. Developed with Next.js, Drizzle ORM, and Tailwind CSS, it enables job seekers to browse listings, apply directly, and print professional job applications. Employers can post openings and manage applicants through a clean, intuitive dashboard. The platform uses Framer Motion for smooth UI transitions and includes tools like Tiptap for rich job descriptions and React Hook Form with Zod for precise form validation. Designed with scalability and mobile responsiveness in mind, it serves as a practical solution for local recruitment needs.",
     
-    github_url: "https://github.com/bunseujjy/camjobfindr",
+    github_url: "https://github.com/bunseueng/camjobfindr",
     slug: "CamJobFindr",
   },
   {
@@ -89,7 +89,7 @@ export const nextjs_project: Projects[] = [
       "This personal portfolio site showcases your full-stack development projects, skills, and experience in a sleek, animated layout. Built with Next.js, Tailwind CSS, and Framer Motion, it offers an interactive overview of your work, with sections for featured projects, technologies, contact form, and GitHub integrations. Each project links to live demos and repositories, making it easy for recruiters and collaborators to view your code. The portfolio is fully responsive, SEO-optimized, and demonstrates proficiency in modern development tools including TypeScript, React-Three, and Knip",
     
     live_site: "https://bunseueng.netlify.app",
-    github_url: "https://github.com/bunseujjy/myportfolio",
+    github_url: "https://github.com/bunseueng/myportfolio",
     slug: "Portfolio",
   },
 ]
@@ -102,7 +102,7 @@ export const nuxtjs_project: Projects[] = [
     description:
       "MijuBlog is a feature-rich blogging platform built using Nuxt.js and Supabase. It allows authenticated users to write and publish blog posts using a Quill-based rich text editor. The blog supports full SEO optimization with Nuxt SEO and includes email notifications via Nuxt Email and Nodemailer. Posts can be scheduled using Croner, and all content is stored securely in Supabase. Smooth scrolling, image galleries, and dynamic routing enhance the reading experience. This platform is ideal for developers or content creators who want to maintain a modern, self-hosted blog with performance and scalability.",
     live_site: "https://mijublog.netlify.app/",
-    github_url: "https://github.com/bunseujjy/mijublog",
+    github_url: "https://github.com/bunseueng/mijublog",
     slug: "MijuBlog",
   },
 ]
@@ -114,7 +114,7 @@ export const vuejs_project: Projects[] = [
     title: "// MijuChat - Real-time Chat App",
     description:
       "MijuChat is a sleek real-time chat application built with Vue.js and Tailwind CSS. It supports live messaging with emoji integration, smooth scroll behavior, and visual notifications using Vue Toastification. Users can chat across channels or private rooms in a responsive interface powered by Vue Router and Vuetify. The chat UI uses Vue3 Perfect Scrollbar for fluid scrolling and includes emoji pickers for expressive communication. Ideal for real-time collaboration, this app highlights your ability to build scalable, user-focused features with modern Vue tooling.",
-    github_url: "https://github.com/bunseujjy/mijuchat",
+    github_url: "https://github.com/bunseueng/mijuchat",
     slug: "MijuChat",
   },
 ]
@@ -170,7 +170,7 @@ export const nextjs_project_info: Record<string, Projects_Data> = {
   lusiecommerce: {
     header: `${nextjs_url}/lusiecommerce/homepage.jpg`,
     domain: "https://lusiecommerce.netlify.app",
-    repo: "https://github.com/bunseujjy/lusi_eCommerce",
+    repo: "https://github.com/bunseueng/lusi_eCommerce",
     title: "LusiEcommerce - Shoes Store",
     description:
       "LusiEcommerce is a modern eCommerce platform tailored for online shoe shopping. It features product browsing, filtering, search, cart functionality, and a smooth checkout experience powered by Stripe. The site is built with Next.js, MongoDB, and Prisma for full-stack capability, along with authentication via NextAuth. Admins can manage products and view orders, while customers enjoy a responsive, user-friendly interface with fast performance and clean UI components using Shadcn and Tailwind CSS. The design emphasizes simplicity, efficiency, and modern aesthetics to elevate the online shopping experience.",
@@ -231,7 +231,7 @@ export const nextjs_project_info: Record<string, Projects_Data> = {
   acevoting: {
     header: `${nextjs_url}/acevoting/homepage.jpg`,
     domain: "https://ace-voting.netlify.app",
-    repo: "https://github.com/bunseujjy/ace_voting",
+    repo: "https://github.com/bunseueng/ace_voting",
     title: "Project Collaborator – Children's Voting Platform",
     description:
       "AceVoting is a creative platform designed to make voting engaging and educational for children. Built using Next.js and MongoDB, this app enables kids to participate in fun, themed polls with a simple and colorful interface. The voting system is secure and user-friendly, supporting admin-side management of questions and submissions. It’s an ideal platform for encouraging interaction, decision-making, and community involvement in a classroom or family setting. The site is fully responsive and features a playful, accessible design.",
@@ -264,7 +264,7 @@ export const nextjs_project_info: Record<string, Projects_Data> = {
   },
   camjobfindr: {
     header: `${nextjs_url}/camjobfindr/homepage.jpg`,
-    repo: "https://github.com/bunseujjy/camjobfindr",
+    repo: "https://github.com/bunseueng/camjobfindr",
     title: "CamJobFindr - Job Portal App",
     description:
       "CamJobFindr is a job search and hiring platform built for the Cambodian job market. Developed with Next.js, Drizzle ORM, and Tailwind CSS, it enables job seekers to browse listings, apply directly, and print professional job applications. Employers can post openings and manage applicants through a clean, intuitive dashboard. The platform uses Framer Motion for smooth UI transitions and includes tools like Tiptap for rich job descriptions and React Hook Form with Zod for precise form validation. Designed with scalability and mobile responsiveness in mind, it serves as a practical solution for local recruitment needs.",
@@ -364,7 +364,7 @@ export const nextjs_project_info: Record<string, Projects_Data> = {
   },
   portfolio: {
     header: `${nextjs_url}/portfolio/homepage.jpg`,
-    repo: "https://github.com/bunseujjy/myportfolio",
+    repo: "https://github.com/bunseueng/myportfolio",
     domain: "https://bunseueng.netlify.app",
     title: "CamJobFindr - Job Portal App",
     description:
@@ -408,8 +408,8 @@ export const nextjs_project_info: Record<string, Projects_Data> = {
   },
   sangzhistore: {
     header: `${reactjs_url}/sangzhistore/homepage.jpg`,
-    repo: "https://github.com/bunseujjy/SangZhiStore",
-    domain: "https://bunseujjy.github.io/SangZhiStore",
+    repo: "https://github.com/bunseueng/SangZhiStore",
+    domain: "https://bunseueng.github.io/SangZhiStore",
     title: "SangzhiStore - Gaming Shop",
     description:
       "SangZhiStore is a visually dynamic React-based eCommerce site for gaming merchandise. It uses animations from Animate.css and carousel libraries like Swiper and React Slick to deliver an interactive product browsing experience. Users can navigate through categories, view product details, and enjoy smooth transitions between pages. Built with Formik and React Hook Form for user interactions and validation, the site blends functionality with style, offering a bold and vibrant design suited for the gaming community. Perfect for showcasing UI design skills and front-end responsiveness.",
@@ -476,7 +476,7 @@ export const nextjs_project_info: Record<string, Projects_Data> = {
   },
   mijublog: {
     header: `${nuxtjs_url}/mijublog/homepage.jpg`,
-    repo: "https://github.com/bunseujjy/mijublog",
+    repo: "https://github.com/bunseueng/mijublog",
     domain: "https://mijublog.netlify.app/",
     title: "mijublog - Gaming Shop",
     description:
@@ -579,7 +579,7 @@ export const nextjs_project_info: Record<string, Projects_Data> = {
   },
   mijuchat: {
     header: `${vuejs_url}/mijuchat/homepage.jpg`,
-    repo: "https://github.com/bunseujjy/mijuchat",
+    repo: "https://github.com/bunseueng/mijuchat",
     title: "MijuChat - Real-time Chat App",
     description:
       "MijuChat is a sleek real-time chat application built with Vue.js and Tailwind CSS. It supports live messaging with emoji integration, smooth scroll behavior, and visual notifications using Vue Toastification. Users can chat across channels or private rooms in a responsive interface powered by Vue Router and Vuetify. The chat UI uses Vue3 Perfect Scrollbar for fluid scrolling and includes emoji pickers for expressive communication. Ideal for real-time collaboration, this app highlights your ability to build scalable, user-focused features with modern Vue tooling.",

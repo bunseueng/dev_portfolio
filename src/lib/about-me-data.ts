@@ -113,7 +113,7 @@ export const projects: Projects[] = [
   },
   {
     projectName: "Personal Project - Gaming Ecommerce Website",
-    projectLink: "https://bunseujjy.github.io/SangZhiStore/",
+    projectLink: "https://bunseueng.github.io/SangZhiStore/",
     period: "2021 - 2022",
     responsibilities: [
         {

@@ -25,7 +25,7 @@ export default function Navbar() {
     <header className="w-full flex-shrink-0">
       {/* Desktop Navigation */}
       <nav className="hidden lg:flex w-full justify-between border-b border-[#1E2D3D] h-[45px] text-[13px]">
-        <GithubCorner url="https://github.com/bunseujjy" />
+        <GithubCorner url="https://github.com/bunseueng" />
 
         <div className="flex">
           <Link

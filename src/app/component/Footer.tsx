@@ -80,12 +80,12 @@ const Footer = ({ isOpen, setIsOpen }: FooterProps) => {
         </div>
 
         <a
-          href="https://github.com/bunseujjy"
+          href="https://github.com/bunseueng"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center space-x-1 sm:space-x-2 text-gray-400 hover:text-white transition-colors"
         >
-          <span className="text-xs sm:text-sm">@bunseujjy</span>
+          <span className="text-xs sm:text-sm">@bunseueng</span>
           <Github size={16} />
         </a>
       </div>

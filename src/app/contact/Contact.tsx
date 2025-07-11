@@ -256,7 +256,7 @@ const Contact = () => {
                     const{" "}
                     <span className="text-yellow-400 text-sm">github</span> ={" "}
                     <span className="text-orange-400 text-sm">
-                      &quot;https://github.com/bunseujjy&quot;
+                      &quot;https://github.com/bunseueng&quot;
                     </span>
                   </span>
                   <p className="text-gray-500 font-semibold text-[14.5px] mt-2">{`// My LinkedIn Account:`}</p>
