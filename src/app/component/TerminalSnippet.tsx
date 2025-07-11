@@ -5,7 +5,7 @@ import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
 import { vscDarkPlus } from "react-syntax-highlighter/dist/cjs/styles/prism";
 
 const codes = [
-  `$ cd Developer/Kubilaybzk
+  `$ cd Developer/bunseueng
 $ npm i
 + react@latest
 + react-dom@latest
@@ -16,8 +16,9 @@ $ npm i
 + prettier@latest
 + framer-motion@latest
 + react-syntax-highlighter@latest
-✓ Paketler başarıyla yüklendi.
+✓ Packages successfully installed.
 $ code .`,
+
   `const motivation = () => {
   while(true) {
     learn();
@@ -37,6 +38,7 @@ $ code .`,
   };
 }`,
 ];
+
 export default function TerminalSnippet() {
   const [displayedCode, setDisplayedCode] = useState("");
   const [codeIndex, setCodeIndex] = useState(0);

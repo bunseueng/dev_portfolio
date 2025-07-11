@@ -72,8 +72,8 @@ export const developer_info = [
         "social": {
             "github": {
                 "title": "Github profile",
-                "url": "https://github.com/bunseujjy",
-                "user": "bunseujjy"
+                "url": "https://github.com/bunseueng",
+                "user": "bunseueng"
             },
             "facebook": {
                 "title": "Facebook profile",
